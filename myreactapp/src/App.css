@@ -1,0 +1,13 @@
+@import url('https://cdn.syncfusion.com/ej2/bootstrap5.css');
+/* App.css */
+.App {
+  
+  
+  overflow-y: auto;
+  will-change: transform;
+  
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
